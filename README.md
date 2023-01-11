@@ -1,4 +1,4 @@
-remore_theme: Chirpy Jekyll Theme
+remore_theme: cotes2020/jekyll-theme-chirpy
 
 ##HEADERS
 
