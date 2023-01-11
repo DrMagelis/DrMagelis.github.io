@@ -1,4 +1,4 @@
-theme: Chirpy
+remore_theme: Chirpy Jekyll Theme
 
 ##HEADERS
 
