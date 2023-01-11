@@ -1,4 +1,5 @@
-# DrMagelis.github.io
+Theme: Chirpy Jekyll Theme
+
 ##HEADERS
 
 # This is an <h1> tag
