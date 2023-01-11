@@ -1,4 +1,4 @@
-remote_theme: cotes2020/jekyll-theme-chirpy
+theme: Dinky
 
 ##HEADERS
 
