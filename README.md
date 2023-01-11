@@ -1,4 +1,4 @@
-remore_theme: cotes2020/jekyll-theme-chirpy
+remote_theme: cotes2020/jekyll-theme-chirpy
 
 ##HEADERS
 
