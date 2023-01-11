@@ -1,4 +1,4 @@
-Theme: Chirpy Jekyll Theme
+theme: Chirpy Jekyll Theme
 
 ##HEADERS
 
